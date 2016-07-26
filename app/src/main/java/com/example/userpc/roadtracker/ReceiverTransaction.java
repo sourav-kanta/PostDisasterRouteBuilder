@@ -84,7 +84,7 @@ public class ReceiverTransaction extends Thread{
 		{
 			String temp_longitude=rec_longitude.get(i);
 			String temp_latitude=rec_latitude.get(i);
-			String sql="INSERT INTO `location` (`id`, `longitude`, `latitude`, `TIME`) VALUES ("+rec_id.get(i)+", "+temp_longitude+", "+temp_latitude+", "+rec_date.get(i)+");";
+			String sql="INSERT INTO `location` (`id`, `longitude`, `latitude`, `TIME`) VALUES (`"+rec_id.get(i)+"`, "+temp_longitude+", "+temp_latitude+", `"+rec_date.get(i)+"`);";
 			try
 			{
 				db.execSQL(sql);

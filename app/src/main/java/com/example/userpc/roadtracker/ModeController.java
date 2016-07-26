@@ -102,14 +102,21 @@ public class ModeController extends Thread{
 	public void run() {
 		// TODO Auto-generated method stub
 		super.run();
+		boolean firsttime=true;
 		while(stop)
 		{
-			try {
-				Thread.sleep(15*60*1000);    //change
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-				break;
+			if(firsttime!=true) {
+				try {
+					Thread.sleep(15 * 60 * 1000);    //change
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+					break;
+				}
+			}
+			else
+			{
+				firsttime=false;
 			}
 			switchMode();
 		}
