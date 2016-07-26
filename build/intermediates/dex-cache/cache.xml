@@ -19,7 +19,7 @@
         jar="C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0 rc3"
-        sha1="b9a82afc5ccc8e82d8562d12c0342b0f3ad8c461">
+        sha1="82cc8b40583507d23131df3fc6152b5880283c32">
         <dex dex="C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\pre-dexed\debug\instant-run_0a053660f6b9efcacd90ab4851ef78e374e44916.jar" />
     </item>
     <item
@@ -54,7 +54,7 @@
         jar="C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0 rc3"
-        sha1="80220e05b4e421f14a6a0fa1a118fd3b7ae7011f">
+        sha1="8f5ece04ff4995559eb5761e3caf27f9c749fe41">
         <dex dex="C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6890a9ca5a0c9053226782db578c9e370d1fd583.jar" />
     </item>
     <item
