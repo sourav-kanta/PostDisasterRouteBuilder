@@ -2324,6 +2324,7 @@ containing a value of this type.
         public static final int design_menu_item_text=0x7f0b0074;
         public static final int design_navigation_view=0x7f0b0073;
         public static final int disableHome=0x7f0b000e;
+        public static final int dump=0x7f0b008b;
         public static final int editText=0x7f0b0078;
         public static final int edit_query=0x7f0b005c;
         public static final int end=0x7f0b0021;
@@ -2510,15 +2511,16 @@ containing a value of this type.
         public static final int appbar_scrolling_view_behavior=0x7f050016;
         public static final int bottom_sheet_behavior=0x7f050017;
         public static final int character_counter_pattern=0x7f050018;
-        public static final int hello_world=0x7f050019;
-        public static final int location=0x7f05001a;
-        public static final int log_clear=0x7f05001b;
-        public static final int logs=0x7f05001c;
-        public static final int showmap=0x7f05001d;
-        public static final int start_service=0x7f05001e;
+        public static final int dump_db=0x7f050019;
+        public static final int hello_world=0x7f05001a;
+        public static final int location=0x7f05001b;
+        public static final int log_clear=0x7f05001c;
+        public static final int logs=0x7f05001d;
+        public static final int showmap=0x7f05001e;
+        public static final int start_service=0x7f05001f;
         public static final int status_bar_notification_info_overflow=0x7f050013;
-        public static final int stop_service=0x7f05001f;
-        public static final int veiw_database=0x7f050020;
+        public static final int stop_service=0x7f050020;
+        public static final int veiw_database=0x7f050021;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080087;

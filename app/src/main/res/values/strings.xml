@@ -11,5 +11,6 @@
     <string name="logs">See Logs</string>
     <string name="location">View Locations</string>
     <string name="log_clear">Clear Log</string>
+    <string name="dump_db">Dump Database</string>
 
 </resources>

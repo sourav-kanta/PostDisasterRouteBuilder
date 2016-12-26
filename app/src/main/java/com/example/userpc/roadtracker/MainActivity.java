@@ -133,6 +133,9 @@ public class MainActivity extends AppCompatActivity {
 			case R.id.log : Intent i=new Intent(this,LogFrag.class);
 				startActivity(i);
 				return true;
+			case R.id.dump:
+				new DumpDatabase(MainActivity.this).execute();
+				return true;
 		}
 		return super.onOptionsItemSelected(item);
 	}

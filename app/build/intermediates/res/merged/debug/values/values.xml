@@ -282,6 +282,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="dump_db">Dump Database</string>
     <string name="hello_world">Hello world!</string>
     <string name="location">View Locations</string>
     <string name="log_clear">Clear Log</string>
