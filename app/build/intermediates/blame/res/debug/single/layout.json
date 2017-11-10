@@ -200,12 +200,12 @@
         "source": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\USER PC\\AndroidStudioProjects\\RoadTracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",

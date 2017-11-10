@@ -1,10 +1,2 @@
 CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$menu$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$layout$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\MainActivity$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$integer$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$style$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$string$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$styleable$override.class
-CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\R$id$override.class
+CHANGED,C:\Users\USER PC\AndroidStudioProjects\RoadTracker1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\userpc\roadtracker\Show_Map$override.class
